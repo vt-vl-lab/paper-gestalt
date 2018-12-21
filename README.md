@@ -8,6 +8,9 @@ Pre-trained weight for bad-to-good paper generator [[link]](http://filebox.ece.v
 
 Pre-trained weight for random CVPR/ICCV paper generator [[link]](http://filebox.ece.vt.edu/~jbhuang/project/gestalt/network-snapshot-011203.plk) (270 MB)
 
+## Latent space interpolation of accepted CVPR/ICCV papers
+[[link]](https://www.youtube.com/watch?v=yQLsZLf02yg)
+
 ## (To-Do) Instructions for running the pre-trained weight on your own papers.
 
 Stay tuned! 
