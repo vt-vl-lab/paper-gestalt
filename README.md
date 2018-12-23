@@ -21,7 +21,7 @@ Computer Vision Paper Gastalt dataset
 Pre-trained weight for good/bad paper classifier [[link]](http://filebox.ece.vt.edu/~jbhuang/project/gestalt/PaperNet.pth) (44 MB)
 - See Section 3.3 and 3.4 of the [paper](https://arxiv.org/pdf/1812.08775.pdf).
 
-Pre-trained weight for random CVPR/ICCV paper generator [[link]](http://filebox.ece.vt.edu/~jbhuang/project/gestalt/network-snapshot-011203.plk) (270 MB)
+Pre-trained weight for random CVPR/ICCV paper generator [[link]](http://filebox.ece.vt.edu/~jbhuang/project/gestalt/network-snapshot-011203.pkl) (270 MB)
 - See Section 4.1: What does a good paper look like?
 
 Pre-trained weight for bad-to-good paper generator [[link]](http://filebox.ece.vt.edu/~jbhuang/project/gestalt/latest_net_G_A.pth) (44 MB)
